@@ -1,0 +1,58 @@
+# Visual Studio files
+*.suo
+*.user
+*.vs/
+*.vshost.*
+*.cache
+*.dll
+*.pdb
+*.bak
+*.tmp
+*.log
+*.bin
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+obj/
+bin/
+*.exe
+*.dll
+*.log
+*.txt
+
+# NuGet packages
+packages/
+*.nupkg
+debug/
+release/
+*.dbmdl
+*.dbproj.user
+*.pfx
+*.publishsettings
+*.cache
+*.csproj.user
+*.bak
+*.cache
+
+# RIA client files
+Generated_Code/
+
+# MVC build output
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Resharper files
+_ReSharper*/
+
+# TeamCity build folder
+_TeamCity*
+
+# DotCover files
+*.dotCover
+
+# JustCode files
+.JustCode
+
+# AxoCover files
+.axoCover/*
